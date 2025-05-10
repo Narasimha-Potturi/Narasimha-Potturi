@@ -48,7 +48,7 @@
 > — Swami Vivekananda
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -56,4 +56,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narasimha-Potturi&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha-Potturi&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+-->
